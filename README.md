@@ -1,4 +1,4 @@
-# Nankai Beamer Theme
+# NJU Beamer Theme
 
 在[这个模板](https://github.com/Trinkle23897/THU-Beamer-Theme)基础上做了简单调整：
 
